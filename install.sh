@@ -1,0 +1,10 @@
+# tailwind css
+mkdir -p ~/.local/bin
+wget https://github.com/tailwindlabs/tailwindcss/releases/latest/download/tailwindcss-linux-x64 -O ~/.local/bin/tailwindcss
+chmod +x ~/.local/bin/tailwindcss
+
+# biome js
+brew install biome
+
+# http server
+brew install http-server
