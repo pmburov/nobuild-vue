@@ -13,7 +13,7 @@ wget https://github.com/tailwindlabs/tailwindcss/releases/latest/download/tailwi
 chmod +x ~/.local/bin/tailwindcss
 ```
 
-BiomeJS Formatting and linting
+BiomeJS formatting and linting
 ```bash
 brew install biome
 ```
@@ -37,5 +37,5 @@ http-server --proxy http://localhost:3000? --port 3000
 
 #### Notes
 
-`/js/vue.js` is a copy of `/js/vendor/vue.esm-browser.prod.js` to shorten import path
-`/js/vue-router.js` is a copy of `vue-router.esm-browser.prod.js` to shorten import path
+- `/js/vue.js` is a copy of `/js/vendor/vue.esm-browser.prod.js` to shorten import path
+- `/js/vue-router.js` is a copy of `vue-router.esm-browser.prod.js` to shorten import path
